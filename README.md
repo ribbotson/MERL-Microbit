@@ -4,17 +4,17 @@ Here is c code developed for an IoT device to monitor the growth of sugar beet a
 ## Description
 The IoT device enables the following sensors to send environment data over a LoRaWAN connection to the [The Things Network](https://www.thethingsnetwork.org/):
 
-* Four of soil temperature sensors. DS1820 sensors on One wire Bus
+* Four of soil temperature sensors. [DS18S20](https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf) sensors on One wire Bus
 
-+ Air temperature, air pressure, air humidity. BME280 sensor on I2C bus
++ Air temperature, air pressure, air humidity. [BME280](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf) sensor on I2C bus
 
-+ Light intensity and colour. TCS34275 sensor on I2C bus
++ Light intensity and colour. [TCS34275](https://cdn-shop.adafruit.com/datasheets/TCS34725.pdf) sensor on I2C bus
 
-+ Soil Humidity. Chirp sensor on I2C Bus
++ Soil Humidity. [Chirp](https://www.tindie.com/products/miceuz/i2c-soil-moisture-sensor/) sensor on I2C Bus
 
-+ Solar power supply Monitor. ADS1115 on I2C Bus
++ Solar power supply Monitor. [ADS1115]( http://www.ti.com/lit/ds/symlink/ads1115.pdf)on I2C Bus
 
-Libraries are also provided for the Microchip RN2483 LoRaWAN radio, and for the Microchip MCP7940 Real Time clock used to keep the IOT device asleep most of the time
+Libraries are also provided for the Microchip [RN2483]( http://ww1.microchip.com/downloads/en/DeviceDoc/50002346C.pdf) LoRaWAN radio, and for the Microchip [MCP7940N](http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf) Real Time clock used to keep the IOT device asleep most of the time
 
 ## Hardware Configuration.
 I2C devices are connected using a grove breakout
