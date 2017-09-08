@@ -18,7 +18,7 @@ Libraries are also provided for the devices on the LoRaWAN_Microbit including th
 
 ## Hardware Configuration.
 I2C devices are connected using a grove breakout
-One wire devices are on the digital I/O of the LoRaWAN Microbit. Breakout boards for the devices were sourced for Adafruit and from eBay suppliers.
+One wire devices are on the digital I/O of the LoRaWAN Microbit. Breakout boards for the I2C devices were sourced for Adafruit and from eBay suppliers. DS18S20 sensors with cables and waterproof tubes were sourced from eBay.
 
 ## Software Configuration
 The software is developed in c using the mbed libraries. Development environment is yotta.
