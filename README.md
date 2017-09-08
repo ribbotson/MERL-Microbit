@@ -22,7 +22,7 @@ One wire devices are on the digital I/O of the LoRaWAN Microbit. Breakout boards
 
 ## Software Configuration
 The software is developed in c using the mbed libraries. Development environment is yotta.
-Code presented here is from the source directories of the yotta projects. You will need to make yotta projects and then add the source code. A excellent description of how to do this for the Microbit is here: [micro:bit IoT in C](http://www.iot-programmer.com/index.php/books/27-micro-bit-iot-in-c/chapters-micro-bit-iot-in-c/44-offline-c-c-development-with-the-micro-bit)
+Code presented here is from the source directories of the yotta projects. You will need to make yotta projects and then add the source code. A excellent description of how to do this for the BBC Microbit is here: [micro:bit IoT in C](http://www.iot-programmer.com/index.php/books/27-micro-bit-iot-in-c/chapters-micro-bit-iot-in-c/44-offline-c-c-development-with-the-micro-bit)
 
 ## Authors
 
