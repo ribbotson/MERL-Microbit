@@ -14,7 +14,7 @@ The IoT device enables the following sensors to send environment data over a LoR
 
 + Solar power supply Monitor. [ADS1115]( http://www.ti.com/lit/ds/symlink/ads1115.pdf)on I2C Bus
 
-Libraries are also provided for the Microchip [RN2483]( http://ww1.microchip.com/downloads/en/DeviceDoc/50002346C.pdf) LoRaWAN radio, and for the Microchip [MCP7940N](http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf) Real Time clock used to keep the IOT device asleep most of the time
+Libraries are also provided for the devices on the LoRaWAN_Microbit including the Microchip [RN2483]( http://ww1.microchip.com/downloads/en/DeviceDoc/50002346C.pdf) LoRaWAN radio, and the Microchip [MCP7940N](http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf) Real Time clock used to keep the IOT device asleep most of the time
 
 ## Hardware Configuration.
 I2C devices are connected using a grove breakout
