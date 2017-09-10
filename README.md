@@ -27,6 +27,8 @@ Code presented here is from the source directories of the yotta projects. You wi
 ## License
 
 The software and associated documentation is provided under the MIT LIcense
+
+
 MIT License
 
 Copyright (c) 2017 Richard Ibbotson
