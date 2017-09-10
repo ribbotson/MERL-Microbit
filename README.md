@@ -1,5 +1,5 @@
 # MERL-Microbit
-Here is c code developed for an IoT device to monitor the growth of sugar beet at [MERL](https://www.reading.ac.uk/TheMERL/) The Museum of English Rural Life, Reading. The hardware is the BBC Microbit with the addition of [LoRaWAN_MicroBit](https://github.com/ribbotson/LoRaWAN_MicroBit)
+Here is C/C++ code developed for an IoT device to monitor the growth of sugar beet at [MERL](https://www.reading.ac.uk/TheMERL/) The Museum of English Rural Life, Reading. The hardware is the BBC Microbit with the addition of [LoRaWAN_MicroBit](https://github.com/ribbotson/LoRaWAN_MicroBit)
 
 ## Description
 The IoT device enables the following sensors to send environment data over a LoRaWAN connection to the [The Things Network](https://www.thethingsnetwork.org/):
