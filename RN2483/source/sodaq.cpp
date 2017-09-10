@@ -94,6 +94,8 @@ int main()
 	}
 
 	LoRaNode.getHWEUI(cbuffer,16);
+	uBit.serial.send(LoRaNode.getBatVolts());
+	uBit.serial.send("\r\n");
 
 	while(1)
 	{

@@ -126,6 +126,16 @@ long DateTime::get()const{
   return time2long(days, hh, mm, ss);
 }
 
+/*	END SECTION COPIED FROM RTClib */
+
+/*	THIS SECTION BASED ON RTClib
+	It has been adjusted to support the Microchip MCP7940M
+
+	Version:	Initial
+	Author:		C.Koiter
+	Date:		August 2014
+*/
+
 
 
 
