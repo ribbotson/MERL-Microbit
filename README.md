@@ -28,7 +28,7 @@ Code presented here is from the source directories of the yotta projects. You wi
 
 ## Authors
 
-* **Richard Ibbotson**  
+* **Richard Ibbotson**  richard.ibbotson@ribbotson.com
 
 ## License
 
@@ -38,7 +38,7 @@ The software and associated documentation is provided under the MIT LIcense
 MIT License
 
 Copyright (c) 2017 Richard Ibbotson
-richard.ibbotson@ribbotson.com
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
